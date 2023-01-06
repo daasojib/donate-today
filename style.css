@@ -1,0 +1,205 @@
+*{
+          margin: 0;
+          padding: 0;
+}
+
+.btn-primary {
+          background-color: palevioletred;
+          color: white;
+          padding: 10px;
+          border-radius: 10px;
+}
+
+.donate{
+          background-image: url(images/donation13.jpg);
+          background-repeat: no-repeat;
+          background-position: center;
+          height: 250px;
+          text-align: center;
+          background-color: rgba(0, 0, 0, 0.6);
+          padding: 20px;
+          background-size: cover;
+}
+
+.donate .donate-title{
+          margin-top: 50px;
+}
+
+.donate .btn-primary{
+          margin-top: 20px;
+}
+
+
+.donate-title{
+          color: rgb(230, 120, 9);
+}
+
+.donate-dis{
+          color: rgb(247, 6, 6);
+}
+
+.sec1{
+          text-align: center;
+          margin-left: 100px;
+          margin-right: 100px;
+}
+
+.sec1 .main-title{
+          margin-top: 20px;
+          margin-bottom: 30px;
+}
+
+.sec1 .main-ul{
+          list-style-type: none;
+          display: flex;
+          gap: 40px;
+          margin-left: 50px;
+          margin-top: 40px;
+          margin-bottom: 40px;
+}
+
+.sec1 .main-ul .main-list{
+          background-color: #4F9DA6;
+          padding: 10px 25px;
+          border-radius: 5px;
+}
+
+/* section styles here */
+.sec1 a{
+          margin-bottom: 10px;
+          text-decoration: none;
+          color: black;
+
+}
+
+.sec1 .btn-primary{
+          margin-top: 15px;
+}
+
+.plan{
+          text-align: center;
+          margin-left: 60px;
+          padding: 40px;
+          margin-right: 60px;
+          margin-top: 100px;
+          margin-bottom: 50px;
+}
+
+.card-m{
+          text-align: center;
+          display: flex;
+          gap: 20px;
+}
+
+.con-card1 h2{
+          margin: 10px;
+
+}
+
+.con-card1 img{
+          width: 40px;
+          height: 40px;
+}
+
+.con-card2 h2{
+          margin: 10px;
+}
+
+.con-card2 img{
+          width: 40px;
+          height: 40px;
+
+}
+
+.con-card3 h2{
+          margin: 10px;
+
+}
+
+.con-card3 img{
+          width: 40px;
+          height: 40px;
+          
+
+}
+
+
+.text{
+          display: flex;
+          gap: 30px;
+          margin-top: 25px;
+          margin-bottom: 30px;
+}
+
+.pra{
+          
+          margin-top: 15px;
+          margin-left: 35px;
+          gap: 5px;
+          /* margin-right: 60px; */
+          /* margin-left: 20px; */
+}
+
+.pra .btn-primary{
+          margin: 10px;
+          
+}
+
+
+
+.pic img{
+          width: 250px;
+          margin-right: 35px;
+          background-size: cover;
+}
+
+.suvibe{
+          margin-top: 50px;
+          margin-right: 60px;
+          margin-left: 20px;
+}
+
+
+.main-suvibe{
+          display: flex;
+          gap: 30px;
+          height: 250px;
+          margin-top: 25px;
+} 
+
+.suvibe .btn-primary{
+          margin: 10px;
+
+}
+
+.pic-suvibe img{
+          width: 250px;
+          margin-left: 50px;
+          margin-top: 50px;
+          background-size: cover;
+
+}
+.update{
+          text-align: center;
+          background-color: #FFF4D6;
+          margin: 10px;
+          
+}
+
+.mail{
+          padding: 10px;
+          margin: 5px 5px 10px 10px;
+}
+
+
+
+
+/* footer design  */
+
+.humble{
+          text-align: center;
+          color: red;
+          background-color: black;
+          padding: 2px;
+          margin-top: 5px;
+}
